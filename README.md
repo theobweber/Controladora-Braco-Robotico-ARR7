@@ -1,4 +1,4 @@
-#Controladora de Braço ARR7 via Bluetooth
+# Controladora de Braço ARR7 via Bluetooth
 Sketch para utlizar braço robótico ARR7 de 5 servos motores via bluetooth
 com módulo HC-06 que se conecta apenas com aparelhos Android.
 
@@ -6,6 +6,7 @@ Neste projeto foi utilizado:
 - 5 servos motores MG90S com 180º de rotação, incluindo na garra;
 - 1 Protoboard;
 - 1 Arduino UNO;
+- Aplicativo [Arduino Bluetooth Control](https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree&hl=pt_BR) na Play Store
 - 1 Módulo Bluetooth HC-06;
 - Diversos cabos Jumper (Macho-Macho e Macho-Fêmea);
 
