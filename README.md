@@ -18,3 +18,4 @@ Pode ser adaptado para ser usado com os potênciometros que acompanham o joystic
 
 Espero que isso ajude alguem passando dificultades com esse mesmo produto!
   
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c5506a77-535b-4046-894e-27da7822f6ac" />
