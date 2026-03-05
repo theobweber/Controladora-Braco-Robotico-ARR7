@@ -10,9 +10,9 @@ Neste projeto foi utilizado:
 - 1 Módulo Bluetooth HC-06;
 - Diversos cabos Jumper (Macho-Macho e Macho-Fêmea);
 
-Tudo energizado atráves da entrada USB do Arduino UNO, é remendado usar fonte externa porém conseguimos utilizar somente com a energia de um computador.
+Tudo energizado atráves da entrada USB do Arduino UNO, é recomendado usar fonte externa porém conseguimos utilizar somente com a energia de um computador.
 
-Teclas e conexões podem ser personalizadas e afim de teste pode ser usado o Montior Serial do Arduino IDE
+Teclas e conexões podem ser personalizadas e a fim de teste pode ser usado o Montior Serial do Arduino IDE
 
 Pode ser adaptado para ser usado com os potênciometros que acompanham o joystick do conjunto do Braço Robótico ARR7, mas o que compramos veio defeituoso, então sugiro que teste todas as conexões antes de fazer qualquer coisa.
 
